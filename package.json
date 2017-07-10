@@ -1,0 +1,12 @@
+{
+  "devDependencies": {
+    "browser-sync": "^2.13.0",
+    "gulp": "^3.9.1",
+    "gulp-myth": "^1.1.0",
+    "gulp-notify": "^2.2.0",
+    "gulp-plumber": "^1.1.0",
+    "gulp-yuicompressor": "0.0.3",
+    "gulp-sourcemaps": "~1.6.0",
+    "gulp-haml": "^0.0.1"
+  }
+}
